@@ -1,0 +1,2 @@
+# Szinezo
+Szinező
